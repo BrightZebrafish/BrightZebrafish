@@ -4,6 +4,4 @@
 - 📫 Feel free to reach out to me in discord at: finn#7232
 - 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/607256532974960687)](https://discord.com/users/607256532974960687)
-<!---
-BrightZebrafish/BrightZebrafish is a ✨ special ✨ repository because its `README.md`
---->
+[![Discord Presence]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrightZebrafish)](https://github.com/anuraghazra/github-readme-stats))
